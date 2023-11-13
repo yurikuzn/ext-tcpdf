@@ -1,0 +1,11 @@
+{
+    "name": "yurikuzn/ext-tcpdf",
+    "require": {
+        "tecnickcom/tcpdf": "^6.6"
+    },
+    "authors": [
+        {
+            "name": "Yurii Kuznietsov"
+        }
+    ]
+}

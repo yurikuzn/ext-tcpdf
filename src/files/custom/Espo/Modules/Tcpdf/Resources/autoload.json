@@ -1,0 +1,20 @@
+{
+    "autoloadFileList": [
+        "custom/Espo/Modules/Tcpdf/Resources/defaults/tcpdf-config.php",
+
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/tcpdf.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/tcpdf_parser.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/tcpdf_import.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/tcpdf_barcodes_1d.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/tcpdf_barcodes_2d.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/include/tcpdf_colors.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/include/tcpdf_filters.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/include/tcpdf_font_data.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/include/tcpdf_fonts.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/include/tcpdf_images.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/include/tcpdf_static.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/include/barcodes/datamatrix.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/include/barcodes/pdf417.php",
+        "custom/Espo/Modules/Tcpdf/vendor/tecnickcom/tcpdf/include/barcodes/qrcode.php"
+    ]
+}

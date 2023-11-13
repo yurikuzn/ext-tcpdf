@@ -1,0 +1,22 @@
+{
+    "espocrm": {
+        "repository": "https://github.com/espocrm/espocrm.git",
+        "branch": "stable"
+    },
+    "database": {
+        "host": "localhost",
+        "port": null,
+        "charset": "utf8mb4",
+        "dbname": "ext-tcpdf",
+        "user": "root",
+        "password": ""
+    },
+    "install": {
+        "language": "en_US",
+        "defaultOwner": "www-data",
+        "defaultGroup": "www-data",
+        "siteUrl": "http://localhost/ext-tcpdf/site",
+        "adminUsername": "admin",
+        "adminPassword": "1"
+    }
+}

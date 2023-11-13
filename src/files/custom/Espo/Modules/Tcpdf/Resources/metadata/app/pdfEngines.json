@@ -1,0 +1,38 @@
+{
+    "Tcpdf": {
+        "implementationClassNameMap": {
+            "entity": "Espo\\Modules\\Tcpdf\\Engine\\TcpdfEntityPrinter",
+            "collection": "Espo\\Modules\\Tcpdf\\Engine\\TcpdfCollectionPrinter"
+        },
+        "fontFaceList": [
+            "aealarabiya",
+            "aefurat",
+            "cid0cs",
+            "cid0ct",
+            "cid0jp",
+            "cid0kr",
+            "courier",
+            "dejavusans",
+            "dejavusanscondensed",
+            "dejavusansextralight",
+            "dejavusansmono",
+            "dejavuserif",
+            "dejavuserifcondensed",
+            "freemono",
+            "freesans",
+            "freeserif",
+            "helvetica",
+            "hysmyeongjostdmedium",
+            "kozgopromedium",
+            "kozminproregular",
+            "msungstdlight",
+            "pdfacourier",
+            "pdfahelvetica",
+            "pdfasymbol",
+            "pdfatimes",
+            "stsongstdlight",
+            "symbol",
+            "times"
+        ]
+    }
+}

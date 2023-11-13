@@ -1,0 +1,13 @@
+{
+    "module": "Tcpdf",
+    "name": "Tcpdf",
+    "description": "TCPDF engine.",
+    "author": "Yurii Kuznietsov",
+    "bundled": false,
+    "acceptableVersions": [
+        ">=8.1.0"
+    ],
+    "php": [
+        ">=8.0"
+    ]
+}
