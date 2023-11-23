@@ -1,8 +1,12 @@
 # TCPDF engine for EspoCRM
 
-## Instalation
+## Installation
 
 Download a zip package from releases. Install it on EspoCRM (via CLI or at Administration > Extensions).
+
+Supported EspoCRM versions:
+
+* 8.1
 
 ## Configuration
 
