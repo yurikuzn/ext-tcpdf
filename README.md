@@ -8,7 +8,7 @@ Supported EspoCRM versions:
 
 * 8.1
 
-Note that you may need to increase `post_max_size` and `upload_max_filesize` to install the extension via the UI due the size of the extension. Or install in via CLI.
+Note that you may need to increase `post_max_size` to install the extension via the UI due to its size. Or install in via CLI.
 
 ## Configuration
 
